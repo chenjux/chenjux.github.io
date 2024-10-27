@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Introduction"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Previously, I collaborated on a UW ischool capstone project EVAN9000, leverages open-source large language models (LLMs) to democratize access to advanced digital tools, especially targeting underprivileged organizations and small businesses. The project aims to break down technological barriers that typically exclude smaller entities from benefitting from AI advancements monopolized by larger enterprises. By focusing on the scalability of open-source models and local customization, it offers a cost-effective way to enhance operational efficiency, empowering these organizations to compete more effectively and innovate within their sectors. This project triggered my passion for research, inspiring me to delve deeper into the possibilities of using AI to promote inclusivity and digital equity. Seeing firsthand how technological gaps can limit innovation for smaller entities, I became driven to explore solutions that bridge these divides. Working on EVAN9000 made me realize the potential of open-source LLMs to democratize digital access and empower underprivileged organizations. This experience reinforced my desire to contribute to research initiatives that explore scalable AI solutions, fostering equitable access and sustainable growth for all communities.
 
 A data-driven personal website
 ======
