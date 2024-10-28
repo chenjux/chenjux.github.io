@@ -8,10 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-# Curriculum Vitae
-
-## View My CV
 You can view or download my CV below:
 
 ### Embedded CV
