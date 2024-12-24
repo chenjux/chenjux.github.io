@@ -17,4 +17,4 @@ You can view or download my CV below:
 </iframe>
 
 ### Download CV
-[Download my CV (PDF)](https://raw.githubusercontent.com/chenjux/resume/main/Dexter_CV.pdf)
+[Download my CV (PDF)](https://raw.githubusercontent.com/chenjux/resume/main/Dexter_CV1.pdf)
